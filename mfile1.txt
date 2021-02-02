@@ -3,4 +3,7 @@ this is second commit
 this is third commit
 this is fourth commmit
 this is 5th commit
-
+this is reset process
+this is reset line again
+this is mixed one
+hard commit
